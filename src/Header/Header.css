@@ -1,0 +1,9 @@
+.Section-header {
+  background-image:linear-gradient(rgba(30, 30, 85, 0.1), rgba(20,10,25,0.5)), url(../images/PortugalPhoto.JPG);
+  /* red,green,blue,opacity */
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+  width: 100vw;
+  
+}
