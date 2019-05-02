@@ -1,9 +1,22 @@
 .Section-header {
-  background-image:linear-gradient(rgba(30, 30, 85, 0.1), rgba(20,10,25,0.5)), url(../images/PortugalPhoto.JPG);
+  background-image:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0,0,0,0.7)), url(../images/PortugalPhoto.JPG);
   /* red,green,blue,opacity */
   background-position: center;
   background-size: cover;
   height: 100vh;
   width: 100vw;
   
+}
+
+.Section-header h1 {
+  color: white;
+  text-align: center;
+  font-weight: 400;
+  font-size: 300%
+}
+
+.Section-header h2 {
+  color: white;
+  text-align:center;
+  font-weight: 200;
 }

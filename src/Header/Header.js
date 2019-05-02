@@ -5,7 +5,8 @@ function Header() {
     return (
         <div className="Section-header" id="home">
           <NavigationBar/>
-          <p>Welcome to Gawah's WIP portfolio!</p>
+          <h1>Gawah Chan</h1>
+          <h2>London based junior JavaScript/React Developer</h2>
         </div>
     )
 }
