@@ -1,15 +1,16 @@
 import React from 'react';
+import './NavigationBar.css'
 
 function NavigationBar() {
     return (
-        <div ClassName="NavigationBar">
-            <div ClassName="NavigationIcons">
+        <div className="NavigationBar">
+            <div className="NavigationIcons">
             </div>
-            <div ClassName="NavigationMenu">
-                <p>home</p>
-                <p>about</p>
-                <p>skills</p>
-                <p>projects</p>
+            <div className="NavigationMenu">
+                <h3>Home</h3>
+                <h3>About</h3>
+                <h3>Skills</h3>
+                <h3>Projects</h3>
             </div>
         </div>
     );
