@@ -1,5 +1,5 @@
 .Section-header {
-  background-image:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0,0,0,0.7)), url(../images/PortugalPhoto.JPG);
+  background-image:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0,0,0,0.7)), url(../../images/PortugalPhoto.JPG);
   /* red,green,blue,opacity */
   background-position: center;
   background-size: cover;
@@ -12,13 +12,16 @@
   color: white;
   text-align: center;
   font-weight: 400;
-  font-size: 300%;
+  font-size: 350%;
   padding-top: 100px;
+  padding-left: 15px;
+  padding-right: 15px
 }
 
 .Section-header h2 {
   color: white;
   text-align:center;
   font-weight: 200;
-  padding: 10px
+  font-size: 200%;
+  padding: 20px
 }

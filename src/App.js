@@ -1,13 +1,12 @@
 import React from 'react';
-import Header from './Header/Header';
+import Header from './Components/Header/Header';
+import About from './Components/About/About';
 
 function App() {
   return (
     <div className="App">
         <Header/>
-      <div className="Section-body">
-        <p>Body section WIP!</p>
-      </div>
+        <About/>
     </div>
   );
 }

@@ -1,0 +1,30 @@
+.Section-about {
+    display: block;
+    height: 100vh;
+    padding-top: 40px
+}
+
+.Section-about h1 {
+    text-align: center;
+    color:rgb( 0, 0, 0);
+    font-size: 50px;
+    font-weight: 400
+}
+
+.Section-about p {
+    text-align: center;
+    padding: 80px;
+    font-size: 23px;
+
+}
+
+.Section-about-image {
+    height: 250px;
+    max-width: 250px;
+    border-radius: 50%;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto;
+    padding: 30px
+
+}
