@@ -11,7 +11,9 @@ function NavigationBar() {
                 <a href="https://www.linkedin.com/in/gawahchan/" target="_blank" rel="noopener noreferrer">
                     <i class="fab fa-linkedin"></i>
                 </a>
-                    <i class="far fa-envelope"></i>     
+                <a href="mailto:gawahchan@gmail.com">
+                    <i class="far fa-envelope"></i>  
+                </a>   
             </div>
                 <div className="NavigationMenu">
                     <h3>Home</h3>
