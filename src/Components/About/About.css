@@ -6,8 +6,8 @@
 
 .Section-about h1 {
     text-align: center;
-    color:rgb(43, 40, 40);
-    font-size: 3em;
+    color: rgb(60, 60, 60);
+    font-size: 2em;
     font-weight: 350;
     padding-top: 40px
 }
@@ -19,7 +19,7 @@
     padding-right: 80px;
     padding-bottom: 50px;
     font-size: 1em;
-
+    color: rgb(60, 60, 60);
 }
 
 .Section-about-image {
