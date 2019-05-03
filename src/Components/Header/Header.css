@@ -1,3 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: calc(14px + (22 - 14) * ((100vw - 300px) / (1600 - 300)));
+  line-height: calc(1.3em + (1.5 - 1.2) * ((100vw - 300px) / (1600 - 300)));
+}
+
 .Section-header {
   background-image:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0,0,0,0.7)), url(../../images/PortugalPhoto.JPG);
   /* red,green,blue,opacity */
@@ -12,16 +20,16 @@
   color: white;
   text-align: center;
   font-weight: 400;
-  font-size: 350%;
-  padding-top: 100px;
-  padding-left: 15px;
-  padding-right: 15px
+  font-size: 3em;
+  padding-top: 2em;
+  padding-left: 1em;
+  padding-right: 1em
 }
 
 .Section-header h2 {
   color: white;
   text-align:center;
   font-weight: 200;
-  font-size: 200%;
-  padding: 20px
+  font-size: 1.5em;
+  padding: 0.5em
 }

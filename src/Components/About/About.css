@@ -1,30 +1,32 @@
+
 .Section-about {
     display: block;
-    height: 100vh;
-    padding-top: 40px
+    padding-top: 80px
 }
 
 .Section-about h1 {
     text-align: center;
-    color:rgb( 0, 0, 0);
-    font-size: 50px;
-    font-weight: 400
+    color:rgb(43, 40, 40);
+    font-size: 3em;
+    font-weight: 350;
+    padding-top: 40px
 }
 
 .Section-about p {
     text-align: center;
-    padding: 80px;
-    font-size: 23px;
+    padding-top: 50px;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-bottom: 50px;
+    font-size: 1em;
 
 }
 
 .Section-about-image {
-    height: 250px;
-    max-width: 250px;
+    width: 10em;
+    height: 10em;
     border-radius: 50%;
-    object-fit: cover;
     display: block;
     margin: 0 auto;
-    padding: 30px
-
+    object-fit: cover;
 }

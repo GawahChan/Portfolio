@@ -22,6 +22,7 @@
 
 .NavigationBar .NavigationMenu h3 {
     color: white;
-    font-weight: 400;
-    padding: 10px
+    font-weight: 300;
+    padding: 10px;
+    font-size: 1em;
 }
