@@ -4,7 +4,7 @@ import PorfilePic from '../../images/Kodiri profile pic.PNG'
 
 function About() {
     return (
-        <div className="Section-about">
+        <div className="Section-about" id="About">
             <img src={PorfilePic} className="Section-about-image" alt="Profile Pic" />
             <h1>Welcome!</h1>
             <p>Hi, my name is Gawah. I'm a Full-Stack developer based in London, currently looking for a Junior Developer Position.

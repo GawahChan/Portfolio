@@ -26,7 +26,17 @@
     font-size: 1em;
 }
 
+.NavigationBar .NavigationMenu h3:hover {
+    color: rgba(230, 145, 15);
+    transition: 0.3s 
+}
+
 .NavigationBar .NavigationIcons i {
     color: white;
-    padding: 1em;
+    padding: 0.5em;
+}
+
+.NavigationBar .NavigationIcons i:hover {
+    color: rgba(230, 145, 15);
+    transition: 0.3s 
 }
