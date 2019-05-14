@@ -1,0 +1,11 @@
+.Section-Footer {
+    background-color:  rgba(8, 8, 8, 0.7 );
+}
+
+.Section-Footer h6 {
+    font-weight: 200;
+    color: white;
+    font-size: 1em;
+    text-align: center;
+    padding: 0.5em
+}
