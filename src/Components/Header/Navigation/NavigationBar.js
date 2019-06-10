@@ -23,6 +23,9 @@ function NavigationBar() {
                     <Link smooth to="#About">
                     <h3>About</h3>
                     </Link>
+                    <Link smooth to="#Projects">
+                        <h3>Projects</h3>
+                    </Link>
                 </div>
             </div>
             );

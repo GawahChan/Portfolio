@@ -1,32 +1,29 @@
 
-.Section-about {
+.about-container {
     display: block;
-    padding-top: 80px
+    height: 100vh;
+    box-sizing: border-box;
 }
 
-.Section-about h1 {
+.about-container h1 {
     text-align: center;
-    color: rgb(60, 60, 60);
     font-size: 2em;
     font-weight: 350;
-    padding-top: 40px
 }
 
-.Section-about p {
+.about-container p {
     text-align: center;
-    padding-top: 50px;
-    padding-left: 80px;
-    padding-right: 80px;
-    padding-bottom: 50px;
-    font-size: 1em;
-    color: rgb(60, 60, 60);
+    padding: 1.5em;
+    color: rgba(0, 0, 0, 0.7);
 }
 
-.Section-about-image {
+.about-container img {
     width: 10em;
     height: 10em;
     border-radius: 50%;
     display: block;
     margin: 0 auto;
     object-fit: cover;
+    box-sizing: content-box;
+    padding: 3em
 }

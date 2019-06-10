@@ -2,7 +2,8 @@ import React from 'react';
 import { BrowserRouter } from 'react-router-dom';
 import Header from './Components/Header/Header';
 import About from './Components/About/About';
-import Footer from './Components/Footer/Footer';
+import Projects from './Components/Projects/Projects';
+// import Footer from './Components/Footer/Footer';
 import './App.css';
 
 
@@ -12,7 +13,8 @@ function App() {
       <div className="App">
         <Header />
         <About />
-        <Footer />
+        <Projects />
+        {/* <Footer /> */}
       </div>
     </BrowserRouter>
   );

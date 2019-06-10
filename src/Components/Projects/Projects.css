@@ -1,0 +1,27 @@
+.Projects-container {
+    text-align: center;
+    padding: 1em;
+
+}
+
+
+.Projects-container img {
+    width: 100%;
+    height: 80%
+}
+
+.Projects-list {
+    display: flex;
+}
+
+.Projects-item {
+    flex:1;
+    margin: 0.5em;
+    border: solid rgba(0,0,0,0.5)
+}
+
+@media only screen and (max-width: 500px) {
+    .Projects-list {
+        flex-direction: column;
+    }
+}
