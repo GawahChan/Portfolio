@@ -1,13 +1,12 @@
 .Projects-container {
     text-align: center;
-    padding: 1em;
+    padding: 2em;
 }
 
 .Projects-container h1 {
     padding: 1em; 
     font-size: 200%;
     font-weight: 450;
-    color: rgba(0,0,0,0.7);
 }
 
 .Projects-list {
@@ -27,19 +26,19 @@
 }
 
 .kodflix {
-    background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.9)), url('../../common/images/Kodflix.JPG');
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.7)), url('../../common/images/Kodflix.JPG');
     background-position: center;
     background-size: cover;
 }
 
 .alpha-props {
-    background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.9)), url("../../common/images/Alpha-props.JPG");
+    background-image: linear-gradient(rgba(30, 88, 136, 0.7), rgba(0,0,0,0.9)), url("../../common/images/Alpha-props.JPG");
     background-position: top;
     background-size: cover;
 }
 
 .other-projects {
-    background-color: rgba(0,0,0,0.9);
+    background-color: rgba(0,0,0,0.8);
 }
 
 .Overlay {
@@ -48,21 +47,20 @@
 
 .Overlay h2 {
     font-size: 150%;
-    font-weight: 650;
+    font-weight: 600;
     padding: 1em
 }
 
 .Overlay p {
     font-weight: 500;
-    padding: 1.5em;
+    padding: 0.5em 
 }
 
 .fab {
     padding: 0.5em
 }
-
 .Overlay:hover {
-    color: rgb(245, 184, 72);
+    color: rgb(231, 158, 23);
     transition: 0.7s
 }
 
