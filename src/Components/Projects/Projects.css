@@ -3,47 +3,62 @@
     padding: 1em;
 }
 
-
-.Projects-container img {
-    width: 100%;
-    height: 100%;
-}
-
 .Projects-list {
     display: flex;
 }
 
+.Projects-item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
 .Projects-item {
-    flex:1;
-    margin: 0.5em;
+    flex: 1;
     border: solid rgba(0,0,0,0.5);
-    position: relative;
+    margin: 0.5em
+}
+
+.kodflix {
+    background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('../../common/images/Kodflix.JPG');
+    background-position: center;
+    background-size: cover;
+}
+
+.alpha-props {
+    background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url("../../common/images/Alpha-props.JPG");
+    background-position: top;
+    background-size: cover;
+}
+
+.other-projects {
+    background-color: rgba(0,0,0,0.9);
 }
 
 .Overlay {
-    position: absolute;
-    width: 100%;
-    height: 10%;
     color: white;
-    background-color: rgba(0, 0, 0, 0.8);
-    transition: height, 2s;
-    bottom: 0px
 }
 
-.Overlay h2 {
-    font-size: 200%;
-    font-weight: 450;
-}
-
-.Overlay p {
+.Overlay h1 {
+    font-size: 150%;
+    font-weight: 650;
     padding: 1em
 }
 
-.Projects-item:hover .Overlay {
-    height: 100%;
+.Overlay p {
+    font-weight: 500;
 }
 
-@media only screen and (max-width: 500px) {
+.fab {
+    padding: 0.5em
+}
+
+.Overlay:hover {
+    color: rgb(245, 184, 72);
+    transition: 0.7s
+}
+
+@media only screen and (max-width: 768px) {
     .Projects-list {
         flex-direction: column;
     }
