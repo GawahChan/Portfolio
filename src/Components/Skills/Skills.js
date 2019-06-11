@@ -4,7 +4,7 @@ import './Skills.css'
 
 function Skills() {
     return (
-        <div className="skills-container">
+        <div className="skills-container" id="Skills">
             <h1>My Skills</h1>
             <div className="skills-languages">
                 <i class="fab fa-react fa-3x" />

@@ -7,28 +7,31 @@ function NavigationBar() {
         <div className="NavigationBar">
             <div className="NavigationIcons">
                 <a href="https://github.com/GawahChan" target="_blank" rel="noopener noreferrer">
-                    <i class="fab fa-github fa-lg"/>
+                    <i class="fab fa-github fa-lg" />
                 </a>
                 <a href="https://www.linkedin.com/in/gawahchan/" target="_blank" rel="noopener noreferrer">
-                    <i class="fab fa-linkedin fa-lg"/>
+                    <i class="fab fa-linkedin fa-lg" />
                 </a>
                 <a href="mailto:gawahchan@gmail.com">
-                    <i class="far fa-envelope fa-lg"/> 
-                </a>   
+                    <i class="far fa-envelope fa-lg" />
+                </a>
             </div>
-                <div className="NavigationMenu">
-                    <Link smooth to="#Home">
-                        <h3>Home</h3>
-                    </Link>
-                    <Link smooth to="#About">
+            <div className="NavigationMenu">
+                <Link smooth to="#Home">
+                    <h3>Home</h3>
+                </Link>
+                <Link smooth to="#About">
                     <h3>About</h3>
-                    </Link>
-                    <Link smooth to="#Projects">
-                        <h3>Projects</h3>
-                    </Link>
-                </div>
+                </Link>
+                <Link smooth to="#Skills">
+                    <h3>Skills</h3>
+                </Link>
+                <Link smooth to="#Projects">
+                    <h3>Projects</h3>
+                </Link>
             </div>
-            );
-        }
-        
+        </div>
+    );
+}
+
 export default NavigationBar;

@@ -11,21 +11,21 @@
     width: 100vw;
 }
 
-.NavigationBar .NavigationMenu {
+.NavigationMenu {
     display: flex;
     justify-content: flex-end;
     align-items: stretch;
-    padding-right: 1em
+    padding-right: 0.5em
 }
 
-.NavigationBar .NavigationMenu h3 {
+.NavigationMenu h3 {
     color: white;
     font-weight: 350;
     padding: 0.5em;
     font-size: 1em;
 }
 
-.NavigationBar .NavigationMenu h3:hover {
+.NavigationMenu h3:hover {
     color: rgba(230, 145, 15);
     transition: 0.3s 
 }

@@ -5,18 +5,6 @@
     height: 100vh
 }
 
-.about-container h1 {
-    text-align: center;
-    font-size: 2em;
-    font-weight: 350;
-}
-
-.about-container p {
-    text-align: center;
-    padding: 1.5em;
-    color: rgba(0, 0, 0, 0.7);
-}
-
 .about-container img {
     width: 10em;
     height: 10em;
@@ -27,3 +15,22 @@
     box-sizing: content-box;
     padding: 3em
 }
+
+.about-container h1 {
+    text-align: center;
+    font-size: 2em;
+    font-weight: 350;
+    color: rgba(0, 0, 0, 0.7);
+}
+
+.about-body {
+    padding: 1em
+}
+
+.about-container p {
+    text-align: center;
+    padding: 1.5em;
+    color: rgba(0, 0, 0, 0.7);
+}
+
+

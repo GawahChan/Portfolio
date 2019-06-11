@@ -11,14 +11,6 @@ function Projects() {
                         <div className="Overlay">
                             <h2>Kodflix</h2>
                             <p>A netflix inspired web app</p>
-                            {/* <div className="Projects-languages">
-                                <i class="fab fa-react fa-2x" />
-                                <i class="fab fa-node fa-2x" />
-                                <i class="fab fa-js-square fa-2x" />
-                                <i class="fab fa-html5 fa-2x" />
-                                <i class="fab fa-css3 fa-2x" />
-                                <i class="fab fa-git fa-2x" />
-                            </div> */}
                         </div>
                     </a>
                 </div>
@@ -27,22 +19,14 @@ function Projects() {
                         <div className="Overlay">
                             <h2>Alpha-Properties</h2>
                             <p>A mock real-estate agency website based on properties in London </p>
-                            {/* <div className="Projects-languages">
-                                <i class="fab fa-react fa-2x" />
-                                <i class="fab fa-node fa-2x" />
-                                <i class="fab fa-js-square fa-2x" />
-                                <i class="fab fa-html5 fa-2x" />
-                                <i class="fab fa-css3 fa-2x" />
-                                <i class="fab fa-git fa-2x" />
-                            </div> */}
                         </div>
                     </a>
                 </div>
                 <div className="Projects-item other-projects">
                     <a href="https://github.com/GawahChan" target="_blank" rel="noopener noreferrer">
                         <div className="Overlay">
-                            <h2>Other Projects</h2>
-                            <i class="fab fa-github fa-3x" />
+                            <h2>Check out my GitHub!</h2>
+                            <i class="fab fa-github fa-2x" />
                         </div>
                     </a>
                 </div>

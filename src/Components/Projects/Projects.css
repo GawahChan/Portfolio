@@ -1,12 +1,14 @@
 .Projects-container {
     text-align: center;
     padding: 2em;
+    height: 70vh
 }
 
 .Projects-container h1 {
-    padding: 1em; 
+    padding: 1em;
     font-size: 200%;
-    font-weight: 450;
+    font-weight: 400;
+    color: rgba(0, 0, 0, 0.7)
 }
 
 .Projects-list {
@@ -26,13 +28,13 @@
 }
 
 .kodflix {
-    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.7)), url('../../common/images/Kodflix.JPG');
+    background-image: linear-gradient(rgba(0,0,0,0.65), rgba(0,0,0,0.8)), url('../../common/images/Kodflix.JPG');
     background-position: center;
     background-size: cover;
 }
 
 .alpha-props {
-    background-image: linear-gradient(rgba(30, 88, 136, 0.7), rgba(0,0,0,0.9)), url("../../common/images/Alpha-props.JPG");
+    background-image: linear-gradient(rgba(3, 33, 58, 0.7), rgba(0,0,0,0.9)), url("../../common/images/Alpha-props.JPG");
     background-position: top;
     background-size: cover;
 }
@@ -52,7 +54,7 @@
 }
 
 .Overlay p {
-    font-weight: 500;
+    font-weight: 350;
     padding: 0.5em 
 }
 
