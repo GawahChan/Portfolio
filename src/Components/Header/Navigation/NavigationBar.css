@@ -6,7 +6,7 @@
 .NavigationBar {
     background-color: rgb(25, 25, 25);
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
     position: fixed;
     width: 100vw;
 }

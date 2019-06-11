@@ -26,7 +26,7 @@ function Projects() {
                     <a href="https://github.com/GawahChan" target="_blank" rel="noopener noreferrer">
                         <div className="Overlay">
                             <h2>Check out my GitHub!</h2>
-                            <i class="fab fa-github fa-2x" />
+                            <i class="fab fa-github fa-3x" />
                         </div>
                     </a>
                 </div>
