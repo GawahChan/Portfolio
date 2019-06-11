@@ -13,7 +13,6 @@
 
 .NavigationBar .NavigationMenu {
     display: flex;
-    flex-direction: row;
     justify-content: flex-end;
     align-items: stretch;
     padding-right: 1em

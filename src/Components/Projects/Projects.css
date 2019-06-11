@@ -3,6 +3,13 @@
     padding: 1em;
 }
 
+.Projects-container h1 {
+    padding: 1em; 
+    font-size: 200%;
+    font-weight: 450;
+    color: rgba(0,0,0,0.7);
+}
+
 .Projects-list {
     display: flex;
 }
@@ -20,13 +27,13 @@
 }
 
 .kodflix {
-    background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('../../common/images/Kodflix.JPG');
+    background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.9)), url('../../common/images/Kodflix.JPG');
     background-position: center;
     background-size: cover;
 }
 
 .alpha-props {
-    background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url("../../common/images/Alpha-props.JPG");
+    background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.9)), url("../../common/images/Alpha-props.JPG");
     background-position: top;
     background-size: cover;
 }
@@ -39,7 +46,7 @@
     color: white;
 }
 
-.Overlay h1 {
+.Overlay h2 {
     font-size: 150%;
     font-weight: 650;
     padding: 1em
@@ -47,6 +54,7 @@
 
 .Overlay p {
     font-weight: 500;
+    padding: 1.5em;
 }
 
 .fab {
@@ -61,5 +69,8 @@
 @media only screen and (max-width: 768px) {
     .Projects-list {
         flex-direction: column;
+    }
+    .Overlay p {
+        height: auto;
     }
 }
