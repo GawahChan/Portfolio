@@ -1,6 +1,6 @@
 
 .Section-header {
-  background-image:linear-gradient(rgba(139, 97, 4, 0.15), rgba(0,0,0,0.9)), url(../../common/images/PortugalPhoto.JPG);
+  background-image:linear-gradient(rgba(44, 14, 0, 0.2), rgba(0,0,0,0.9)), url(../../common/images/PortugalPhoto.JPG);
   background-position: center;
   background-size: cover;
   height: 100vh;

@@ -23,19 +23,35 @@
     font-weight: 350;
     padding: 0.5em;
     font-size: 1em;
-}
-
-.NavigationMenu h3:hover {
-    color: rgba(230, 145, 15);
-    transition: 0.3s 
+    animation: none;
 }
 
 .NavigationBar .NavigationIcons i {
     color: white;
     padding: 0.5em;
+    animation: none 
+}
+
+.NavigationMenu h3:hover {
+    color: rgba(230, 145, 15);
+    transition: 0.3s;
+    animation: pulse 2s infinite;
 }
 
 .NavigationBar .NavigationIcons i:hover {
     color: rgba(230, 145, 15);
-    transition: 0.3s 
+    transition: 0.3s;
+    animation: pulse 2s infinite;
+}
+
+@keyframes pulse {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(2.5);
+    }
+    100% {
+        transform: scale(1);
+    }
 }
