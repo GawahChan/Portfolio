@@ -7,7 +7,7 @@ function Projects() {
             <h1>My Projects</h1>
             <div className="Projects-list">
                 <div className="Projects-item kodflix">
-                    <a href="https://kodflix-gawah.herokuapp.com/" target="_blank" rel="noopener noreferrer">
+                    <a href="https://kodflix.appspot.com/" target="_blank" rel="noopener noreferrer">
                         <div className="Overlay">
                             <h2>Kodflix</h2>
                             <p>A netflix inspired web app</p>
