@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.f0954365.chunk.css",
+    "main.js": "/portfolio/static/js/main.b7d6b5a5.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.b7d6b5a5.chunk.js.map",
+    "runtime~main.js": "/portfolio/static/js/runtime~main.f308c8e6.js",
+    "runtime~main.js.map": "/portfolio/static/js/runtime~main.f308c8e6.js.map",
+    "static/js/2.1448908d.chunk.js": "/portfolio/static/js/2.1448908d.chunk.js",
+    "static/js/2.1448908d.chunk.js.map": "/portfolio/static/js/2.1448908d.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.9455d2af0364baf9277078c1aa6665e0.js": "/portfolio/precache-manifest.9455d2af0364baf9277078c1aa6665e0.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.f0954365.chunk.css.map": "/portfolio/static/css/main.f0954365.chunk.css.map",
+    "static/media/Projects.css": "/portfolio/static/media/Kodflix.ef83d422.JPG",
+    "static/media/Kodiri profile pic.PNG": "/portfolio/static/media/Kodiri profile pic.45a4eb89.PNG",
+    "static/media/Header.css": "/portfolio/static/media/PortugalPhoto.cc2fe4dd.JPG"
+  }
+}
