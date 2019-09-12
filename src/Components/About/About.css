@@ -2,35 +2,37 @@
 .about-container {
     display: block;
     box-sizing: border-box;
-    height: 100vh
+    padding-top: 3rem;
+    padding-bottom: 2rem;
 }
 
 .about-container img {
-    width: 10em;
-    height: 10em;
+    width: 10rem;
+    height: 10rem;
     border-radius: 50%;
     display: block;
     margin: 0 auto;
     object-fit: cover;
     box-sizing: content-box;
-    padding: 3em
 }
 
 .about-container h1 {
+    margin-top: 2rem;
     text-align: center;
-    font-size: 2em;
+    font-size: 2rem;
     font-weight: 350;
     color: rgba(0, 0, 0, 0.7);
 }
 
 .about-body {
-    padding: 1em
+    padding: 0.5rem 2rem 0.5rem 2rem;
 }
 
 .about-container p {
     text-align: center;
-    padding: 1em;
+    padding: 1rem;
     color: rgba(0, 0, 0, 0.7);
+    font-weight: 350;
 }
 
 
