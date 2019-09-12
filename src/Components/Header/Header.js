@@ -8,7 +8,7 @@ function Header() {
       <NavigationBar />
       <div className="Section-header-Overlay">
         <h1>Gawah Chan</h1>
-        <h2>London based Full-Stack Developer</h2>
+        <h2>London based Junior Full-Stack Developer</h2>
       </div>
     </div>
   );
