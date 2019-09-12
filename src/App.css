@@ -9,12 +9,15 @@
 
   @media only screen and (max-width: 768px) {
     .Projects-list {
-        flex-direction: column;
-    }
-    .Overlay p {
-        height: auto;
+      grid-template-columns: 1fr 1fr;
     }
 }
+
+  @media only screen and (max-width: 500px) {
+    .Projects-list {
+      flex-direction: column;
+    }
+  }
 
   @media only screen and (max-width: 319px) {
 
