@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.7539599a.chunk.css",
+    "main.css": "/portfolio/static/css/main.c153e458.chunk.css",
     "main.js": "/portfolio/static/js/main.0416ce2c.chunk.js",
     "main.js.map": "/portfolio/static/js/main.0416ce2c.chunk.js.map",
     "runtime~main.js": "/portfolio/static/js/runtime~main.f308c8e6.js",
@@ -8,9 +8,9 @@
     "static/js/2.1448908d.chunk.js": "/portfolio/static/js/2.1448908d.chunk.js",
     "static/js/2.1448908d.chunk.js.map": "/portfolio/static/js/2.1448908d.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.832c76b64104c917855b4b416c8b8942.js": "/portfolio/precache-manifest.832c76b64104c917855b4b416c8b8942.js",
+    "precache-manifest.ddbfb75f4253abbc9ac6b6f13c90644b.js": "/portfolio/precache-manifest.ddbfb75f4253abbc9ac6b6f13c90644b.js",
     "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.7539599a.chunk.css.map": "/portfolio/static/css/main.7539599a.chunk.css.map",
+    "static/css/main.c153e458.chunk.css.map": "/portfolio/static/css/main.c153e458.chunk.css.map",
     "static/media/Projects.css": "/portfolio/static/media/Svelte-Scoreboard.bdb5f423.JPG",
     "static/media/Kodiri profile pic.PNG": "/portfolio/static/media/Kodiri profile pic.45a4eb89.PNG",
     "static/media/Header.css": "/portfolio/static/media/PortugalPhoto.cc2fe4dd.JPG"
