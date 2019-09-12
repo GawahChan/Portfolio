@@ -53,15 +53,3 @@
         transform: scale(1);
     }
 }
-
-@media only screen and (max-width: 319px) {
-
-    .NavigationMenu {
-        justify-self: center;
-    }
-    
-    .NavigationIcons {
-        justify-self: center;
-    }
-
-}

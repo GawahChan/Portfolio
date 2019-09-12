@@ -1,10 +1,10 @@
 .Projects-container {
     text-align: center;
-    padding: 3em;
+    padding: 1rem;
 }
 
 .Projects-container h1 {
-    padding: 0.5em;
+    padding: 1rem;
     font-size: 200%;
     font-weight: 400;
     color: rgba(0, 0, 0, 0.7)
@@ -12,6 +12,8 @@
 
 .Projects-list {
     display: flex;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
 }
 
 .Projects-item img {
@@ -23,7 +25,7 @@
 .Projects-item {
     flex: 1;
     box-shadow: 5px 5px 5px #999999;
-    margin: 0.5em
+    margin: 0.5rem
 }
 
 .kodflix {
@@ -50,16 +52,16 @@
 .Overlay h2 {
     font-size: 150%;
     font-weight: 600;
-    padding: 1em
+    padding: 1rem
 }
 
 .Overlay p {
     font-weight: 350;
-    padding: 0.5em 
+    padding: 1rem 
 }
 
 .fab {
-    padding: 0.5em
+    padding: 1rem
 }
 .Overlay:hover {
     color: orange;

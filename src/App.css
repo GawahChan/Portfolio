@@ -16,8 +16,17 @@
     }
 }
 
-  @media only screen and (max-width: 500px) {
-    .about-container {
-      height: auto;
+  @media only screen and (max-width: 319px) {
+
+    .NavigationMenu {
+        justify-self: center;
+    }
+    
+    .NavigationIcons {
+        justify-self: center;
+    }
+
+    .skills-languages {
+      grid-template-columns: 1fr 1fr;
     }
   }

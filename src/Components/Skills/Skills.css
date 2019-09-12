@@ -1,19 +1,17 @@
 .skills-container {
     text-align: center;
-    padding: 2em;
+    padding: 3rem 1rem 2rem 1rem;
     background-color: rgba(223, 177, 51, 0.6);
     color: white;
-    width: 100vw;
 }
 
 .skills-container h1 {
     font-size: 200%;
     font-weight: 500;
-    padding: 1em
 }
 
 .skills-languages {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    padding: 1em
+    padding: 1rem
 }
