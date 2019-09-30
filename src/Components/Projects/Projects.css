@@ -45,8 +45,8 @@
     background-image: linear-gradient(rgba(3, 33, 58, 0.9), rgba(30, 30, 30,0.9)), url("../../common/images/Gift-Giver.JPG");
 }
 
-.Svelte-Scoreboard {
-    background-image: linear-gradient(rgba(3, 33, 58, 0.9), rgba(30, 30, 30,0.9)), url("../../common/images/Svelte-Scoreboard.JPG");
+.SD-Tinder {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("../../common/images/SD-Tinder.JPG");
 }
 
 .Other-Projects {

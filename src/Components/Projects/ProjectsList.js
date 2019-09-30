@@ -10,14 +10,14 @@ const ProjectsList = [
         description:'A mock real-estate agency website based on properties in London'
     },
     {
+        className: 'SD-Tinder', name: 'SD-Tinder',
+        link: 'https://gawahchan.github.io/SD-Tinder/', gitHub:'https://github.com/GawahChan/SD-Tinder',
+        description:'Your perfect stunt double is just a swipe away!'
+    },
+    {
         className: 'Gift-Giver', name: 'Gift Giver', 
         link:'https://gawahchan.github.io/Gift-giver/', gitHub:'https://github.com/GawahChan/Gift-giver',
         description:'A revolutionizing way of keeping track of your gift list'
-    },
-    {   
-        className: 'Svelte-Scoreboard', name: 'Svelte Scoreboard',
-        link:'https://public.gawahchan.now.sh/', gitHub:'https://github.com/GawahChan/Svelte-Scoreboard',
-        description:'Experimenting with Svelte to keep track of player scores'
     },
     {
         className: 'Other-Projects', name: 'Other Projects', link:'https://github.com/GawahChan',
