@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "710361de8b7e10092fe7da3cbce1b872",
+    "revision": "5a807b0232902ca5bec02cf996e90617",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "72e76d97e230a9dfeb09",
-    "url": "/portfolio/static/css/main.c153e458.chunk.css"
+    "revision": "c4f47abf1283b4801e9e",
+    "url": "/portfolio/static/css/main.b2c0147a.chunk.css"
   },
   {
     "revision": "df19cae414ea3e96eb6d",
     "url": "/portfolio/static/js/2.1448908d.chunk.js"
   },
   {
-    "revision": "72e76d97e230a9dfeb09",
-    "url": "/portfolio/static/js/main.0416ce2c.chunk.js"
+    "revision": "c4f47abf1283b4801e9e",
+    "url": "/portfolio/static/js/main.5f668e03.chunk.js"
   },
   {
     "revision": "53ebc025fca807d4dbea",
@@ -40,7 +40,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/PortugalPhoto.cc2fe4dd.JPG"
   },
   {
-    "revision": "bdb5f423abcf4b7319218f5e05109ab1",
-    "url": "/portfolio/static/media/Svelte-Scoreboard.bdb5f423.JPG"
+    "revision": "ad50fbd15942830ee58d24ff3ffdd503",
+    "url": "/portfolio/static/media/SD-Tinder.ad50fbd1.JPG"
   }
 ]);
