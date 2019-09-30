@@ -14,6 +14,10 @@ const ProjectsList = [
         link: 'https://gawahchan.github.io/SD-Tinder/', gitHub:'https://github.com/GawahChan/SD-Tinder',
         description:'Your perfect stunt double is just a swipe away!'
     },
+    {   
+        className: 'JSON-Placeholder', name: 'Json-Placeholder Posts',
+        link: 'https://gawahchan.github.io/JSON-Placeholder-Posts/', gitHub:'https://github.com/GawahChan/JSON-Placeholder-Posts'
+    },
     {
         className: 'Gift-Giver', name: 'Gift Giver', 
         link:'https://gawahchan.github.io/Gift-giver/', gitHub:'https://github.com/GawahChan/Gift-giver',
