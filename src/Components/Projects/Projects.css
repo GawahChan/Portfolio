@@ -42,11 +42,11 @@
 }
 
 .SD-Tinder {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("../../common/images/SD-Tinder.JPG");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.8)), url("../../common/images/SD-Tinder.JPG");
 }
 
 .JSON-Placeholder {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("../../common/images/JSON-Placeholder.JPG");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.9)), url("../../common/images/JSON-Placeholder.JPG");
 }
 
 .Gift-Giver {

@@ -16,7 +16,8 @@ const ProjectsList = [
     },
     {   
         className: 'JSON-Placeholder', name: 'Json-Placeholder Posts',
-        link: 'https://gawahchan.github.io/JSON-Placeholder-Posts/', gitHub:'https://github.com/GawahChan/JSON-Placeholder-Posts'
+        link: 'https://gawahchan.github.io/JSON-Placeholder-Posts/', gitHub:'https://github.com/GawahChan/JSON-Placeholder-Posts',
+        description: 'Redefining what it means to read fake news!'
     },
     {
         className: 'Gift-Giver', name: 'Gift Giver', 
