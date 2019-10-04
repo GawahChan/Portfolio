@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3078c5dba80022d4a9ff59e4ac1c90ce",
+    "revision": "ecd25372614867da7f63b72536e14bf4",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "0dfaf25517bba7547475",
-    "url": "/portfolio/static/css/main.095eebc8.chunk.css"
+    "revision": "8abdfd652cbea2f9d842",
+    "url": "/portfolio/static/css/main.11e0c412.chunk.css"
   },
   {
-    "revision": "df19cae414ea3e96eb6d",
-    "url": "/portfolio/static/js/2.1448908d.chunk.js"
+    "revision": "3d34664b3986a5e08bfd",
+    "url": "/portfolio/static/js/2.45b20658.chunk.js"
   },
   {
-    "revision": "0dfaf25517bba7547475",
-    "url": "/portfolio/static/js/main.c93d1f71.chunk.js"
+    "revision": "8abdfd652cbea2f9d842",
+    "url": "/portfolio/static/js/main.2ee03443.chunk.js"
   },
   {
     "revision": "53ebc025fca807d4dbea",
@@ -37,7 +37,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "45a4eb8906544d28e2a626a44c56dfdb",
-    "url": "/portfolio/static/media/Kodiri profile pic.45a4eb89.PNG"
+    "url": "/portfolio/static/media/Kodiri-profile-pic.45a4eb89.PNG"
   },
   {
     "revision": "cc2fe4dddda4f833fef7f67923c00ccb",
