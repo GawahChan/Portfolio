@@ -31,7 +31,7 @@ export const ProjectsListContainer = styled.div`
 
 export const ProjectCardContainer = styled.a`
     flex: 1;
-    min-width: 320px;
+    min-width: 250px;
     box-shadow: 5px 5px 5px #999999;
     margin: 0.5rem;
 
