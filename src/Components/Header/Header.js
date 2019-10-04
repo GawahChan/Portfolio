@@ -4,7 +4,7 @@ import { HeaderContainer, HeaderOverlay, HeaderTitle, HeaderSubtitle } from './s
 
 function Header() {
   return (
-    <HeaderContainer>
+    <HeaderContainer id='Home'>
       <HeaderOverlay>
         <HeaderTitle>Gawah Chan</HeaderTitle>
         <HeaderSubtitle>London based Junior Full-Stack Developer</HeaderSubtitle>
