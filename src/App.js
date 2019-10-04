@@ -1,4 +1,5 @@
 import React from 'react';
+import NavigationBar from './Components/Navigation/NavigationBar';
 import Header from './Components/Header/Header';
 import About from './Components/About/About';
 import Skills from './Components/Skills/Skills';
@@ -9,13 +10,14 @@ import './App.css';
 
 function App() {
   return (
-      <div className="App">
-        <Header />
-        <About />
-        <Skills />
-        <Projects />
-        <Footer />
-      </div>
+    <div className="App">
+      <NavigationBar />
+      <Header />
+      <About />
+      <Skills />
+      <Projects />
+      <Footer />
+    </div>
   );
 }
 
