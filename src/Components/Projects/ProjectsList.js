@@ -10,7 +10,7 @@ function ProjectsList() {
             {
                 Data.map(project => {
                     return (
-                        <ProjectCard project={project} />
+                        <ProjectCard key={project.name} project={project} />
                     );
                 })
             }

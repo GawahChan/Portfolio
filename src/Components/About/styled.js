@@ -4,7 +4,7 @@ export const AboutContainer = styled.div`
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 60px 30px 30px 30px;
+    padding: 60px 20px 30px 20px;
     text-align: center;
     color: rgba(0, 0, 0, 0.7);
 `
@@ -13,13 +13,15 @@ export const ProfilePic = styled.div`
     background-position: center;
     background-size: cover;
     
-    min-height: 200px;
-    min-width: 200px;
+    min-height: 10rem;
+    min-width: 10rem;
     border-radius: 50%;
 `
 
 export const AboutInfoContainer = styled.div`
-    padding: 10px 30px 10px 30px;
+    height: 100%;
+    width: 75%;
+    margin: 5px;
 `
 
 export const AboutTitle = styled.h1`

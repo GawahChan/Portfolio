@@ -6,7 +6,6 @@ function ProjectCard({ project }) {
     return (
         <ProjectCardContainer
             img={project.img}
-            href={project.link}
             target="_blank"
             rel="noopener noreferrer"
         >

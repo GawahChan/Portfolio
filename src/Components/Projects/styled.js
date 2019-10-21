@@ -29,7 +29,7 @@ export const ProjectsListContainer = styled.div`
     padding-bottom: 1rem;
 `
 
-export const ProjectCardContainer = styled.a`
+export const ProjectCardContainer = styled.div`
     flex: 1;
     min-width: 250px;
     box-shadow: 5px 5px 5px #999999;
@@ -56,8 +56,15 @@ export const Overlay = styled.div`
     justify-content: space-between;
     align-items: center;
     height: 100%;
-    padding: 1rem;
+    padding: 0.5rem;
     text-align: center;
+
+`
+export const OverlayText = styled.a`
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
     color: white;
 
     :hover {
@@ -70,17 +77,17 @@ export const OverlayTitle = styled.h2`
     flex: 1;
     font-size: 1.5rem;
     font-weight: 500;
-    margin: 0;
+    margin: 0.5rem 0 0.5rem 0;
 `
 
 export const OverlaySubtitle = styled.p`
     flex: 1;
-    margin: 1rem;
+    margin: 1rem 0 1rem 0;
 `
 
 export const OverlayIcon = styled.a`
     color: white;
-    margin: 0.5rem;
+    margin: 1rem;
 
     :hover {
         color: orange;
