@@ -1,26 +1,34 @@
-import React from 'react';
+import React from "react";
 
-import { AboutInfoContainer, AboutTitle, AboutParagraph } from './styled';
+import { AboutInfoContainer, AboutTitle, AboutParagraph } from "./styled";
 
 function AboutInfo() {
-    return (
-        <AboutInfoContainer>
-            <AboutTitle>Welcome!</AboutTitle>
-            <AboutParagraph>
-                Hi, my name is Gawah. I'm a Junior Full-Stack developer based in London, currently looking for a Junior Developer Position.
-                I'm a graduate from The University of York with a BSc Economics degree and am looking to break into the tech industry!
-                </AboutParagraph>
-            <AboutParagraph>
-                I've recently finished an intensive full-stack developer course at Kodiri BootCamp and have experience working with a number of technologies, including:
-                </AboutParagraph>
-            <AboutParagraph>
-                React.js, Node.js Express, JavaScript, HTML, CSS and MongoDB.
-                </AboutParagraph>
-            <AboutParagraph>
-                If you're looking for an ambitious and enthusiastic Junior Full-Stack Developer, please get in touch!
-                </AboutParagraph>
-        </AboutInfoContainer>
-    )
+  return (
+    <AboutInfoContainer>
+      <AboutTitle>Welcome!</AboutTitle>
+      <AboutParagraph>
+        Hi, my name is Gawah and I'm a graduate from The University of York. I
+        have a BSc Economics degree and have recently changed careers from
+        Operations/Finance to Technology.
+      </AboutParagraph>
+      <AboutParagraph>
+        I first began my journey into the world of code in 2019, enrolling in an
+        intensive full-stack developer course at Kodiri bootcamp. After the
+        bootcamp, I've been continuing my journey by learning on my own,
+        utilising online resources such as Udemy and FreeCodeCamp as well as by
+        learning through experimenting with personal side projects.
+      </AboutParagraph>
+      <AboutParagraph>
+        Currently, I'm looking for a junior temporary/contract developer role to
+        gain some experience before I start my graduate software developer role
+        at Sky.
+      </AboutParagraph>
+      <AboutParagraph>
+        If you're looking for an ambitious and enthusiastic junior developer,
+        please get in touch!
+      </AboutParagraph>
+    </AboutInfoContainer>
+  );
 }
 
 export default AboutInfo;
