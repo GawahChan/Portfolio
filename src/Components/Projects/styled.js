@@ -92,6 +92,7 @@ export const OverlaySubtitle = styled.p`
 export const OverlayIcon = styled.a`
   color: white;
   margin: 1rem;
+  cursor: pointer;
 
   :hover {
     color: orange;
