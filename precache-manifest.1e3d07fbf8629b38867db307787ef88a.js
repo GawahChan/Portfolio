@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fbfab921d57aeaac97a7b86c740a74c5",
+    "revision": "916bb5555dcea00085969d042872735b",
     "url": "/portfolio/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/js/2.240c2ac1.chunk.js"
   },
   {
-    "revision": "382dce2bf804a5c028bf",
-    "url": "/portfolio/static/js/main.026db557.chunk.js"
+    "revision": "bf4a5d6d02ae5ed4cacc",
+    "url": "/portfolio/static/js/main.3c63e735.chunk.js"
   },
   {
     "revision": "53ebc025fca807d4dbea",
@@ -44,7 +44,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/SD-Tinder.ad50fbd1.JPG"
   },
   {
-    "revision": "7fed76882eae3cca3908433cfd7a3e66",
-    "url": "/portfolio/static/media/Sintel-VideoPlayer-Pic.7fed7688.png"
+    "revision": "29676c7a143085987f91bf5eb9c451cb",
+    "url": "/portfolio/static/media/Sintel-VideoPlayer-Pic.29676c7a.png"
   }
 ]);
