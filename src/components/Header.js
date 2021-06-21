@@ -13,7 +13,7 @@ function Header() {
       <HeaderOverlay>
         <HeaderTitle>Gawah Chan</HeaderTitle>
         <HeaderSubtitle>
-          London based Junior Full-Stack Developer
+          London based Associate Software Developer
         </HeaderSubtitle>
       </HeaderOverlay>
     </HeaderContainer>
