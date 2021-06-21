@@ -10,6 +10,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  
 }
 
 code {
@@ -18,10 +19,7 @@ code {
 }
 
 * {
-  box-sizing: border-box;
-  font-size: calc(14px + (22 - 14) * ((100vw - 300px) / (1600 - 300)));
-  line-height: calc(1.3em + (1.5 - 1.2) * ((100vw - 300px) / (1600 - 300)));
-  text-decoration: none;
+    font-size: calc(14px + (22 - 14) * ((100vw - 300px) / (1600 - 300)));
+    line-height: calc(1.3em + (1.5 - 1.2) * ((100vw - 300px) / (1600 - 300)));
 }
-
 `;

@@ -40,6 +40,7 @@ export const OverlayText = styled.a`
   justify-content: space-between;
   height: 100%;
   color: white;
+  text-decoration: none;
 
   :hover {
     color: orange;

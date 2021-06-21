@@ -19,6 +19,7 @@ export const NavigationContainer = styled.div`
   background-color: rgb(25, 25, 25);
   width: 100%;
   padding: 10px;
+  box-sizing: border-box;
 `;
 
 export const NavigationIconsContainer = styled.div`
