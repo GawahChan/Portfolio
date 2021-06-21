@@ -15,7 +15,7 @@ export const ProjectCardContainer = styled.div`
 
   background-image: ${(props) => {
     return props.img
-      ? `linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.9)), url(${require(`../../common/images/${props.img}`)})`
+      ? `linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.8)), url(${require(`../../common/images/${props.img}`)})`
       : "linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.9))";
   }};
   background-position: center;

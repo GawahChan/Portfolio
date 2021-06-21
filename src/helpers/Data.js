@@ -1,12 +1,5 @@
 const Data = [
   {
-    name: "Kodflix",
-    img: "Kodflix.JPG",
-    link: "https://kodflix.appspot.com/",
-    gitHub: "https://github.com/GawahChan/kodflix",
-    description: "A netflix inspired web app",
-  },
-  {
     name: "SD-Tinder",
     img: "SD-Tinder.JPG",
     link: "https://gawahchan.github.io/SD-Tinder/",
@@ -26,6 +19,13 @@ const Data = [
     link: "https://gawahchan.github.io/Gift-giver/",
     gitHub: "https://github.com/GawahChan/Gift-giver",
     description: "A revolutionizing way of keeping track of your gift list",
+  },
+  {
+    name: "Kodflix",
+    img: "Kodflix.JPG",
+    link: "https://kodflix.appspot.com/",
+    gitHub: "https://github.com/GawahChan/kodflix",
+    description: "A netflix inspired web app",
   },
   {
     name: "Other Projects",
