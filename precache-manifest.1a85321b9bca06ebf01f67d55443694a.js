@@ -1,15 +1,15 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f88588e29b92f24c8f25941a08dc7dd9",
+    "revision": "1b69fbf9ed91597880dd756e3159dd6f",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "de96e99aa15ee9ee2b8f",
-    "url": "/portfolio/static/js/2.4b39d196.chunk.js"
+    "revision": "8e637cf6ed452455d3f9",
+    "url": "/portfolio/static/js/2.240c2ac1.chunk.js"
   },
   {
-    "revision": "e0ef77acb7a35417f4e7",
-    "url": "/portfolio/static/js/main.0d4b18c3.chunk.js"
+    "revision": "c515b5380feb2e23b503",
+    "url": "/portfolio/static/js/main.ed94bbcd.chunk.js"
   },
   {
     "revision": "53ebc025fca807d4dbea",
@@ -32,12 +32,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/Kodflix.ef83d422.JPG"
   },
   {
-    "revision": "45a4eb8906544d28e2a626a44c56dfdb",
-    "url": "/portfolio/static/media/Kodiri-profile-pic.45a4eb89.PNG"
-  },
-  {
     "revision": "cc2fe4dddda4f833fef7f67923c00ccb",
     "url": "/portfolio/static/media/PortugalPhoto.cc2fe4dd.JPG"
+  },
+  {
+    "revision": "5cf149a0af34b42e69ac00edccf486d2",
+    "url": "/portfolio/static/media/Profile-Pic.5cf149a0.jpg"
   },
   {
     "revision": "ad50fbd15942830ee58d24ff3ffdd503",
