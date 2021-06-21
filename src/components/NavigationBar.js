@@ -31,18 +31,19 @@ function NavigationBar() {
         </NavigationIcon>
       </NavigationIconsContainer>
       <NavigationMenuContainer>
-        <Link smooth to="#Home">
-          <NavigationOption>Home</NavigationOption>
-        </Link>
-        <Link smooth to="#About">
-          <NavigationOption>About</NavigationOption>
-        </Link>
-        <Link smooth to="#Skills">
-          <NavigationOption>Skills</NavigationOption>
-        </Link>
-        <Link smooth to="#Projects">
-          <NavigationOption>Projects</NavigationOption>
-        </Link>
+        <NavigationOption smooth to="#Home">
+          Home
+        </NavigationOption>
+
+        <NavigationOption smooth to="#About">
+          About
+        </NavigationOption>
+        <NavigationOption smooth to="#Skills">
+          Skills
+        </NavigationOption>
+        <NavigationOption smooth to="#Projects">
+          Projects
+        </NavigationOption>
       </NavigationMenuContainer>
     </NavigationContainer>
   );

@@ -9,7 +9,7 @@ export const AboutContainer = styled.div`
   color: rgba(0, 0, 0, 0.7);
 `;
 export const ProfilePic = styled.div`
-  background-image: url(${require("../../common/images/Kodiri-profile-pic.PNG")});
+  background-image: url(${require("../../common/images/Profile-Pic.jpg")});
   background-position: center;
   background-size: cover;
 

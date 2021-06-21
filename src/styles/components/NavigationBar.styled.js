@@ -1,4 +1,5 @@
 import styled, { keyframes } from "styled-components";
+import { HashLink as Link } from "react-router-hash-link";
 
 const pulse = keyframes`
     0% {
@@ -45,12 +46,14 @@ export const NavigationMenuContainer = styled.div`
   display: flex;
   justify-content: flex-end;
   align-items: center;
+  text-decoration: none;
 `;
 
-export const NavigationOption = styled.h3`
+export const NavigationOption = styled(Link)`
   margin: 0 0.5rem 0 0.5rem;
   color: white;
   font-weight: 300;
+  text-decoration: none;
 
   :hover {
     color: rgba(230, 145, 15);
