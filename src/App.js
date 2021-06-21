@@ -1,11 +1,10 @@
 import React from "react";
 import { GlobalStyle } from "./styled";
-import NavigationBar from "./Components/Navigation/NavigationBar";
-import Header from "./Components/Header/Header";
-import About from "./Components/About/About";
-import Skills from "./Components/Skills/Skills";
-import Projects from "./Components/Projects/Projects";
-import Footer from "./Components/Footer/Footer";
+import NavigationBar from "./components/NavigationBar";
+import Header from "./components/Header";
+import About from "./components/About";
+import Skills from "./components/Skills";
+import Projects from "./components/Projects";
 
 function App() {
   return (
@@ -16,7 +15,6 @@ function App() {
       <About />
       <Skills />
       <Projects />
-      <Footer />
     </div>
   );
 }
