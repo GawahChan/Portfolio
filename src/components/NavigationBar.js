@@ -33,7 +33,6 @@ function NavigationBar() {
         <NavigationOption smooth to="#Home">
           Home
         </NavigationOption>
-
         <NavigationOption smooth to="#About">
           About
         </NavigationOption>
